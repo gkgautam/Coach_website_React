@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-312 -329) translate(172 228) translate(140 99) translate(0 2)">
+                        <circle cx="8" cy="8" r="7.25" stroke="#22863A" stroke-width="1.5"/>
+                        <path fill="#22863A" fill-rule="nonzero" d="M7 11L4 8.132 4.93 7.179 6.982 9.129 11.052 5 12 5.935z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

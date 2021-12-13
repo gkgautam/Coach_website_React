@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Utility/Credit Card Copy 3</title>
+    <g id="Checkout-Journey---Guest-Shipping" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile---SW---Checkout---Guest---Payment" transform="translate(-24.000000, -282.000000)" fill="#000001">
+            <g id="Group-7" transform="translate(24.000000, 185.000000)">
+                <g id="Group" transform="translate(0.000000, 94.000000)">
+                    <g id="Group-12" transform="translate(0.000000, 3.000000)">
+                        <path d="M21,0 L3,0 C1.34314575,0 0,1.34314575 0,3 L0,15 C0,16.6568542 1.34314575,18 3,18 L21,18 C22.6568542,18 24,16.6568542 24,15 L24,3 C24,1.34314575 22.6568542,0 21,0 Z M3,2 L21,2 C21.5522847,2 22,2.44771525 22,3 L22,15 C22,15.5522847 21.5522847,16 21,16 L3,16 C2.44771525,16 2,15.5522847 2,15 L2,3 C2,2.44771525 2.44771525,2 3,2 Z" id="Rectangle"></path>
+                        <path d="M23,6 C23.5522847,6 24,6.44771525 24,7 C24,7.51283584 23.6139598,7.93550716 23.1166211,7.99327227 L23,8 L1,8 C0.44771525,8 0,7.55228475 0,7 C0,6.48716416 0.38604019,6.06449284 0.883378875,6.00672773 L1,6 L23,6 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

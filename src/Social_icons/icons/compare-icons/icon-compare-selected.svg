@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g fill="#FFF" stroke="#000" transform="translate(-728 -727) translate(648 346) translate(80 381)">
+                        <rect width="13" height="13" x=".5" y=".5" rx="2"/>
+                    </g>
+                    <g transform="translate(-728 -727) translate(648 346) translate(80 381)">
+                        <rect width="14" height="14" fill="#000" rx="2"/>
+                        <path fill="#FFF" d="M6.125 9.917L3.5 7.407 4.314 6.573 6.11 8.28 9.671 4.667 10.5 5.485z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

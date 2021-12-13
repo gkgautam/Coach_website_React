@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h24v24H0z"/>
+        <path stroke="#000" stroke-width=".656" d="M4.693 18.672h14.614l-.83-12.995a.378.378 0 0 0-.366-.349H5.889a.382.382 0 0 0-.366.35l-.83 12.994z"/>
+        <path fill="#000" fill-rule="nonzero" d="M13.444 5.188c0-1.231-.482-1.641-1.444-1.641-.963 0-1.444.41-1.444 1.64h2.888zm.722 0H9.834C9.834 3.707 10.534 3 12 3s2.166.707 2.166 2.188z"/>
+        <text fill="#000" font-family="FuturaBT-Book, Futura" font-size="8.75" font-weight="300" transform="translate(4.344 3)">
+            <tspan x="5.075" y="12">0</tspan>
+        </text>
+    </g>
+</svg>
